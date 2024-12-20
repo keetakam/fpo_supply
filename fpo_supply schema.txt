@@ -99,3 +99,28 @@ CREATE TABLE [dbo].[users](
 GO
 SET ANSI_PADDING OFF
 GO
+
+
+
+/*
+INSERT INTO fpo_supply.dbo.supply
+(id ,registID ,serialNo ,category ,brand ,model ,activeState ,section ,division ,userID ,project_no ,dataInsert ,dataUpdate ,note)
+VALUES
+('e75667f0n917267604110632hll6200d','2564 สศค. 60411-0632','E75667F0N917267','Laser Printer',
+'Brother','HL-L6200DW','9',NULL,'กพช.',NULL,
+'38/2563 วันที่ 21 ก.ค. 2563',NULL,NULL,NULL);
+
+INSERT INTO fpo_supply.dbo.supply
+(id ,registID ,serialNo ,category ,brand ,model ,activeState ,section ,division ,userID ,project_no ,dataInsert ,dataUpdate ,note)
+VALUES
+('vnc4102396604110662hpi7kw64a2564','2564 สศค. 60411-0662','VNC4102396','Laser Printer',
+'HP','Color LaserJet Pro M255dw','2',NULL,'กพช.',NULL,
+'42/2564 วันที่ 3 ก.ย. 2564',NULL,NULL,NULL);
+
+INSERT INTO fpo_supply.dbo.supply 
+(id ,registID ,serialNo ,category ,brand ,model ,activeState ,section ,division ,userID ,project_no ,dataInsert ,dataUpdate ,note)
+VALUES
+('lr0ew7w9604150444thinkbook152565','2565 สศค. 60415-0444','LR0EW7W9','Notebook',
+'Lenovo','ThinkBook 15-IML','3','ส่วนกลยุทธ์และพัฒนาระบบการเงินภาคประชาชน','กพช.',NULL,
+'42/2564 วันที่ 3 ก.ย. 2564',NULL,NULL,NULL);
+*/
